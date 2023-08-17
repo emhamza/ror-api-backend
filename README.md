@@ -5,6 +5,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [🛠 Link to front-end](#link-frontend)
   - [🛠 Built With](#built-with)
   - [Tech Stack](#tech-stack)
 - [💻 Getting Started](#getting-started)
@@ -24,6 +25,13 @@
 # 📖 ROR-API-BACK-END <a name="about-project"></a>
 
 - The setup app using react as frontend and rails as backend and also creating different API end points for showing the random greeting messages from my app database.
+
+## 🛠 Link to front-end <a name="link-frontend"></a>
+
+-- [Link to Front-end!](https://github.com/emhamza/ror-react-frontend)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🛠 Built With <a name="built-with"></a>
 
 - Rails
@@ -126,11 +134,6 @@ bundle exec rspec spec
 ```sh
 rubocop -A
 ```
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Will be available soon!](#)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
 
