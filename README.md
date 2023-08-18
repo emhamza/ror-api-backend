@@ -184,7 +184,7 @@ I would like to thank Microverse for the immense support.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/emhamza/ror-api-backend/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/emhamza/ror-api-backend/blob/development/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <a name="readme-top"></a>
